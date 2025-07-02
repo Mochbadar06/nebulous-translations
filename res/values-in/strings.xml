@@ -2,9 +2,9 @@
     <string name="Players">"Pemain"</string>
     <string name="Control_">"Kontrol:"</string>
     <string name="CLOSE">"TUTUP"</string>
-    <string name="Stick_Size_">"Ukuran tongkat:"</string>
+    <string name="Stick_Size_">"Ukuran Tongkat:"</string>
     <string name="Stick_Margin_">"Tepi tongkat:"</string>
-    <string name="Button_Size_">"Ukuran tombol:"</string>
+    <string name="Button_Size_">"Ukuran Tombol:"</string>
     <string name="Button_Margin_">"Tepi Tombol:"</string>
     <string name="Buttons_">"Tombol:"</string>
     <string name="DEFAULTS">"TAMPILAN AWAL"</string>
@@ -23,24 +23,24 @@
     <string name="Loading___">"Memuat …"</string>
     <string name="Connecting___">"Menghubungkan …"</string>
 
-    <string name="Are_You_Sure_">"Apakah Anda yakin?"</string>
+    <string name="Are_You_Sure_">"Apakah Anda Yakin?"</string>
     <string name="Yes">"Ya"</string>
     <string name="No">"Tidak"</string>
     <string name="WAIT">"TUNGGU…"</string>
-    <string name="Must_Specify_Name_">"Harus menentukan nama."</string>
+    <string name="Must_Specify_Name_">"Harus Menentukan Nama."</string>
 
     <string name="Content_rating_of_the_app_may_change_when_finding_groups_">"Peringkat dapat berubah ketika menemukan kelompok."</string>
 
     <string name="_Score_">" Skor "</string>
     <string name="_Rank_">" Peringkat "</string>
-    <string name="_Alias_">" Nama "</string>
+    <string name="_Alias_">" Nama Lain"</string>
 
     <string name="Score__">"Skor: "</string>
-    <string name="Recombine_">"Bergabung kembali: "</string>
+    <string name="Recombine_">"Bergabung Kembali: "</string>
     <string name="WINNER_">"PEMENANG:"</string>
     <string name="IDLE">"MENGANGGUR"</string>
-    <string name="Name_Invalid_">"Nama tidak berlaku."</string>
-    <string name="Name_Taken_">"Nama telah diambil."</string>
+    <string name="Name_Invalid_">"Nama Tidak Berlaku."</string>
+    <string name="Name_Taken_">"Nama Telah Diambil."</string>
     <string name="CONNECTED">"TERHUBUNG"</string>
     <string name="JOINING___">"BERGABUNG …"</string>
     <string name="PLAYING">"BERMAIN"</string>
@@ -61,8 +61,8 @@
     <string name="Background_">"Latar Belakang:"</string>
     <string name="Difficulty_">"Kesulitan:"</string>
     <string name="Delay_Disconnect">"Memperlambat Disconnect"</string>
-    <string name="Max_Players">"Maks Pemain"</string>
-    <string name="Min_Players">"Min Pemain"</string>
+    <string name="Max_Players">"Maksimal Pemain"</string>
+    <string name="Min_Players">"Minimal Pemain"</string>
     <string name="OK">"OKE"</string>
     <string name="CANCEL">"BATAL"</string>
     <string name="Chat_Name">"Nama Obrolan"</string>
@@ -79,14 +79,14 @@
     <string name="Blue_Team">"Tim Biru"</string>
     <string name="Yellow_Team">"Tim Kuning"</string>
     <string name="Signed_in_as_">"Login sebagai:"</string>
-    <string name="Not_signed_in_">"Tidak Login!"</string>
+    <string name="Not_signed_in_">"Tidak Login di!"</string>
     <string name="SET_NAME">"ATUR NAMA"</string>
     <string name="SIGN_OUT">"LOGOUT"</string>
     <string name="ACHIEVEMENTS">"PRESTASI"</string>
     <string name="STATISTICS">"STATISTIK"</string>
     <string name="XP_">"XP:"</string>
     <string name="Information">"Informasi"</string>
-    <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan skin ini Anda harus mendapatkan prestasi"</string>
+    <string name="To_use_this_skin_you_must_earn_the_achievement">"Untuk menggunakan skin ini Anda harus mencapai prestasi"</string>
     <string name="To_use_this_skin_you_must_reach_level">"Untuk menggunakan skin ini Anda harus mencapai level"</string>
     <string name="SIGN_IN">"MASUK"</string>
     <string name="Single_Player_Stats">"Statistik Pemain Tunggal"</string>
@@ -103,14 +103,14 @@
     <string name="You">"Anda"</string>
     <string name="This_player_is_a_bot">"Pemain ini adalah bot."</string>
     <string name="This_player_is_not_signed_in">"Pemain ini tidak login."</string>
-    <string name="Online">"Daring"</string>
+    <string name="Online">"Online"</string>
     <string name="Unknown">"Tidak dikenal"</string>
-    <string name="Offline">"Luring"</string>
+    <string name="Offline">"Offline"</string>
     <string name="Achievement_Earned">"Perolehan Prestasi"</string>
     <string name="REFRESH">"MENYEGARKAN"</string>
     <string name="DONE">"SELESAI"</string>
-    <string name="Friend_Request_Sent">"Permintaan teman dikirim…"</string>
-    <string name="ERROR">"RALAT"</string>
+    <string name="Friend_Request_Sent">"Permintaan Teman Telah Dikirim…"</string>
+    <string name="ERROR">"ERROR"</string>
     <string name="CONTINUE">"LANJUTKAN"</string>
     <string name="Global_" formatted="false">"Global %"</string>
     <string name="FRIEND_CHAT">"TEMAN OBROLAN"</string>
@@ -136,8 +136,8 @@
     <string name="Multi_Gulp">"Multi Gulp"</string>
     <string name="Mega_Gulp">"Mega Gulp"</string>
     <string name="Ultra_Gulp">"Ultra Gulp"</string>
-    <string name="Monster_Gulp">"Raksasa Gulp"</string>
-    <string name="Ludicrous_Gulp">"Menggelikan Gulp"</string>
+    <string name="Monster_Gulp">"Monster Gulp"</string>
+    <string name="Ludicrous_Gulp">"Gulp Menggelikan"</string>
     <string name="Blobicide">"Blobicide"</string>
     <string name="Blobtrocity">"Blobtrocity"</string>
     <string name="Blobaccre">"Blobaccre"</string>
@@ -145,10 +145,10 @@
     <string name="Blobihilation">"Blobihilation"</string>
     <string name="Blobageddon">"Blobageddon"</string>
     <string name="Blobocalypse">"Blobocalypse"</string>
-    <string name="Experienced_Nebulator">"Pengalaman Nebulator"</string>
-    <string name="Expert_Nebulator">"Ahli Nebulator"</string>
-    <string name="Master_Nebulator">"Guru Nebulator"</string>
-    <string name="Grand_Master_Nebulator">"Guru Besar Nebulator"</string>
+    <string name="Experienced_Nebulator">" Nebulator Berpengalaman"</string>
+    <string name="Expert_Nebulator">"Nebulator Ahli"</string>
+    <string name="Master_Nebulator">"Nebulator Master"</string>
+    <string name="Grand_Master_Nebulator">"Nebulator Grand Master"</string>
     <string name="Impossible">"Mustahil"</string>
     <string name="Perfection">"Kesempurnaan"</string>
     <string name="Single_Handedly">"Seorang Diri"</string>
@@ -188,12 +188,12 @@
     <string name="Reach_a_score_of_10_000_without_losing_any_blobs">"Mencapai skor 10.000 tanpa kehilangan gumpalan"</string>
     <string name="Reach_a_score_of_5_000_without_splitting_or_ejecting">"Mencapai skor 5.000 tanpa membelah atau mendepak"</string>
     <string name="Play_5_minutes_straight_without_colliding_with_a_black_hole">"Bermain 5 menit lurus tanpa bertabrakan dengan lubang hitam"</string>
-    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Bermain 5 menit langsung tanpa kehilangan gumpalan"</string>
-    <string name="Play_20_minutes_straight_without_restarting">"Bermain 20 menit langsung tanpa memulai ulang"</string>
+    <string name="Play_5_minutes_straight_without_losing_any_blobs">"Bermain 5 menit tanpa kehilangan gumpalan"</string>
+    <string name="Play_20_minutes_straight_without_restarting">"Bermain 20 menit tanpa memulai ulang"</string>
     <string name="Absorb_5_supermassive_black_holes_within_30_seconds_of_starting">"Menyerap 5 lubang hitam supermasal dalam waktu 30 detik dari awal"</string>
     <string name="Reach_a_score_of_5_000_within_1_minute_of_starting">"Mencapai skor 5.000 dalam 1 menit dari awal"</string>
-    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Menembak lubang hitam menjadi pemain terakhir yang ditembak lubang hitam ke dalam diri Anda sebelum restart"</string>
-    <string name="Absorb_5_doges_without_restarting">"Menyerap 5 doge tanpa memulai ulang"</string>
+    <string name="Shoot_a_black_hole_into_the_last_player_that_shot_a_black_hole_into_you_before_restarting">"Menembak lubang hitam menjadi pemain terakhir yang ditembak lubang hitam ke dalam diri Anda sebelum memulai kembali"</string>
+    <string name="Absorb_5_doges_without_restarting">"Menyerap 5 doge dengan tanpa memulai ulang"</string>
     <string name="Friends">"Teman"</string>
     <string name="Dots_Eaten_">"Titik-titik Dimakan:"</string>
     <string name="Blobs_Eaten_">"Gumpalan Dimakan:"</string>
@@ -206,12 +206,12 @@
     <string name="Highest_Score_">"Skor Tertinggi:"</string>
     <string name="Average_Score_">"Skor Rata-rata:"</string>
     <string name="Times_Played_">"Kali Dimainkan:"</string>
-    <string name="Longest_Life_">"Hidup Terpanjang:"</string>
+    <string name="Longest_Life_">"Hidup Terlama:"</string>
     <string name="Games_Won_">"Permainan Dimenangkan:"</string>
     <string name="You_must_wait_until_the_end_of_the_round_">"Anda harus menunggu sampai akhir ronde ini."</string>
     <string name="Dont_show_again">"Jangan tampilkan lagi"</string>
     <string name="Found_a_single_player_stats_backup_with_higher_XP__Do_you_want_to_restore_the_backup_">"Menemukan cadangan statistik pemain tunggal dengan XP yang lebih tinggi. Apakah Anda ingin mengembalikan cadangan?"</string>
-    <string name="Special_Effects">"Tampilkan Efek Khusus"</string>
+    <string name="Special_Effects">"Tampilkan Efek Spesial"</string>
     <string name="Blob_Mushiness">"Tampilkan Bubur Gumpalan"</string>
     <string name="Specify_private_game_name">"Tentukan nama permainan pribadi"</string>
     <string name="In_Game_Chat">"Tampilkan Obrolan Permainan"</string>
@@ -246,7 +246,7 @@
     <string name="CLAN">"KLAN"</string>
 
 
-    <string name="Specify_Clan_ID">"Menentukan ID Klan"</string>
+    <string name="Specify_Clan_ID">"Tentukan ID Klan"</string>
     <string name="Show_Clan_Names">"Tampilkan Nama Klan"</string>
     <string name="Show_Levels">"Tampilkan Level"</string>
     <string name="SET_MOTD">"ATUR MOTD"</string>
@@ -257,14 +257,14 @@
     <string name="That_clan_is_full_">"Klan ini telah penuh."</string>
     <string name="Other_user_is_not_a_member_of_your_clan_">"Pengguna lain bukan anggota klan Anda."</string>
     <string name="_You_can_t_be_your_own_friend_">"Anda tidak bisa menjadi teman Anda sendiri."</string>
-    <string name="A_clan_with_that_name_already_exists_">"Sebuah klan dengan nama tersebut sudah ada."</string>
+    <string name="A_clan_with_that_name_already_exists_">"Nama klan telah diambil."</string>
     <string name="Duration_">"Durasi:"</string>
 
-    <string name="FFA_Time_Domination">"Waktu FFA Dominasi"</string>
+    <string name="FFA_Time_Domination">"FFA Waktu Dominasi"</string>
     <string name="Teams_Time_Domination">"Waktu Tim Dominasi"</string>
     <string name="CTF_Domination">"CTF Dominasi"</string>
     <string name="CTF_Hat_Trick">"CTF Hat-Trik"</string>
-    <string name="Survival_Domination">"Bertahan hidup Dominasi"</string>
+    <string name="Survival_Domination">"Dominasi Bertahan hidup"</string>
     <string name="I_Will_Survive">"Saya akan Bertahan"</string>
     <string name="Soccer_Domination">"Sepakbola Dominasi"</string>
     <string name="Soccer_Hat_Trick">"Sepakbola Hat-Trik"</string>
@@ -274,8 +274,8 @@
     <string name="Score_3_points_in_a_single_CTF_game_">"Skor 3 poin dalam pertandingan CTF tunggal."</string>
     <string name="Win_by_2_500_points_in_a_Survival_game_">"Menang dengan 2.500 poin dalam pertandingan kelangsungan hidup."</string>
     <string name="Survive_but_do_not_win_a_survival_game_">"Bertahan hidup, tetapi tidak memenangkan pertandingan bertahan hidup."</string>
-    <string name="Win_by_8_points_in_a_Soccer_game_">"Menang dengan 8 poin dalam pertandingan sepak bola."</string>
-    <string name="Score_3_goals_in_a_single_Soccer_game_">"Cetak 3 gol dalam pertandingan sepak bola tunggal."</string>
+    <string name="Win_by_8_points_in_a_Soccer_game_">"Menang dengan 8 poin dalam permainan sepak bola."</string>
+    <string name="Score_3_goals_in_a_single_Soccer_game_">"Cetak 3 gol dalam permainan sepak bola tunggal."</string>
     <string name="Total_Domination">"Jumlah Dominasi"</string>
     <string name="Win_500_games_of_any_type_">"Memenangkan 500 permainan dari jenis apa pun."</string>
     <string name="Translations">"Terjemahan"</string>
@@ -306,15 +306,15 @@
     <string name="FFA_CLASSIC">"FFA KLASIK"</string>
 
 
-    <string name="pumpkins_">"Labu."</string>
-    <string name="To_use_this_skin_you_must_collect">"Untuk menggunakan Skin ini Anda harus mengumpulkan"</string>
+    <string name="pumpkins_">"labu."</string>
+    <string name="To_use_this_skin_you_must_collect">"Untuk menggunakan skin ini Anda harus mengumpulkan"</string>
     <string name="Australia">"Australia"</string>
     <string name="Pumpkin_Collector">"Kolektor Labu"</string>
-    <string name="Collect_1000_pumpkins_">"Mengumpulkan 1.000 Labu."</string>
+    <string name="Collect_1000_pumpkins_">"Mengumpulkan 1.000 labu."</string>
 
     <string name="FFAC">"FFA KLASIK"</string>
     <string name="NONE">"TIDAK ADA"</string>
-    <string name="CLAN_WAR">"KLAN PERANG"</string>
+    <string name="CLAN_WAR">"PERANG ANTAR KLAN"</string>
     <string name="Clan_War">"Klan Perang"</string>
 
     <string name="Forming">"Pembentukan"</string>
@@ -340,7 +340,7 @@
     <string name="W_D_L">"M-S-K"</string>
     <string name="MATCH_START">"MULAI PERTANDINGAN"</string>
     <string name="Clan_Warrior">"Prajurit Klan"</string>
-    <string name="Win_a_Clan_War">"Memenangkan War Klan"</string>
+    <string name="Win_a_Clan_War">"Memenangkan Klan Perang"</string>
     <string name="Global">"Global"</string>
     <string name="Spectating">"Menonton"</string>
 
@@ -362,12 +362,12 @@
     <string name="Leaf_Hoarder">"Penimbun Daun"</string>
     <string name="Collect_5000_leaves_">"Mengumpulkan 5.000 Daun."</string>
     <string name="Arena">"Arena"</string>
-    <string name="Enter_the_Arena">"Masukkan Arena"</string>
+    <string name="Enter_the_Arena">"Memasuki Arena"</string>
     <string name="Purchase_History">"Riwayat Pembelian"</string>
     <string name="Purchases_Unavailable_">"Pembelian Tidak Tersedia!"</string>
-    <string name="You_can_purchase_this_skin_for">"Anda dapat membeli kulit ini untuk"</string>
+    <string name="You_can_purchase_this_skin_for">"Anda dapat membeli skin ini untuk"</string>
     <string name="PURCHASE">"Membeli"</string>
-    <string name="Error_in_backup_data_">"Ralat dalam backup data!"</string>
+    <string name="Error_in_backup_data_">"Error dalam backup data!"</string>
     <string name="Remove_Ads">"Hapus iklan"</string>
     <string name="Reward">"Penghargaan"</string>
     <string name="Please_Wait___">"Mohon Tunggu…"</string>
@@ -381,7 +381,7 @@
     <string name="x2_XP_24_Hour">"2x XP 24 Jam"</string>
     <string name="x2_XP_1_Hour">"2x XP 1 Jam"</string>
     <string name="Cost_">"Biaya:"</string>
-    <string name="You_cannot_purchase_this_right_now_">"Anda tidak dapat membeli ini sekarang."</string>
+    <string name="You_cannot_purchase_this_right_now_">"Sekarang anda tidak dapat membeli ini."</string>
 
 
     <string name="Loading_Purchases___">"Memuat Pembelian …"</string>
@@ -395,7 +395,7 @@
     <string name="Temporarily_Disabled_">"Sementara Dinonaktifkan."</string>
     <string name="BIGGEST">"TERBESAR"</string>
     <string name="Copy_ID">"Salin ID"</string>
-    <string name="View_Profile">"Tampilkan Profil"</string>
+    <string name="View_Profile">"Lihat Profil"</string>
     <string name="Send_Message">"Kirim Pesan"</string>
     <string name="Account_ID">"ID Akun"</string>
     <string name="Player_Name">"Nama Pemain"</string>
@@ -413,7 +413,7 @@
     <string name="ENTER">"MASUK"</string>
     <string name="_1v1">"1v1"</string>
     <string name="Practice">"Latihan"</string>
-    <string name="ArenaDescription">"Anda hanya mendapatkan satu kehidupan. Pemenang akan mendapatkan %s plasma."</string>
+    <string name="ArenaDescription">"Anda hanya mempunyai satu nyawa. Pemenang akan mendapatkan %s plasma."</string>
     <string name="Contestant">"Kontestan"</string>
     <string name="Duelist">"Duelist"</string>
     <string name="Gladiator">"Gladiator"</string>
@@ -425,7 +425,7 @@
     <string name="Already_in_arena_">"Sudah di arena."</string>
     <string name="Already_in_queue_">"Sudah di antrian."</string>
     <string name="Invalid_Account_ID_">"ID Akun tidak valid."</string>
-    <string name="Validating">"Memvalidasi"</string>
+    <string name="Validating">"Menyetujui"</string>
     <string name="Randomize">"Mengacak"</string>
     <string name="Harassment">"Gangguan"</string>
     <string name="_2v2">"2v2"</string>
@@ -445,22 +445,22 @@
     <string name="Collect_1_000_presents_">"Mengumpulkan 1.000 Kado."</string>
     <string name="Collect_5_000_presents_">"Mengumpulkan 5.000 Kado."</string>
     <string name="Collect_10_000_presents_">"Mengumpulkan 10.000 Kado."</string>
-    <string name="Loading_reward_video___">"Memuat video hadiah yang &#x2026;"</string>
+    <string name="Loading_reward_video___">"Memuat hadiah video yang &#x2026;"</string>
     <string name="Progress">"Berkembang"</string>
-    <string name="Snowflake_Hoarder">"Penimbun Kepingan Salju"</string>
-    <string name="Snowflake_Mogul">"Mogul Kepingan Salju"</string>
-    <string name="Collect_1_000_snowflakes_">"Mengumpulkan 1.000 Kepingan salju."</string>
-    <string name="Collect_5_000_snowflakes_">"Mengumpulkan 5.000 Kepingan salju."</string>
-    <string name="Collect_10_000_snowflakes_">"Mengumpulkan 10.000 Kepingan salju."</string>
+    <string name="Snowflake_Hoarder">"Penimbun kepingan Salju"</string>
+    <string name="Snowflake_Mogul">"Mogul kepingan Salju"</string>
+    <string name="Collect_1_000_snowflakes_">"Mengumpulkan 1.000 kepingan salju."</string>
+    <string name="Collect_5_000_snowflakes_">"Mengumpulkan 5.000 kepingan salju."</string>
+    <string name="Collect_10_000_snowflakes_">"Mengumpulkan 10.000 kepingan salju."</string>
     <string name="Show_All">"Tampilkan Semua"</string>
     <string name="SET_PERMISSIONS">"ATUR PERIZINAN"</string>
     <string name="Start_Clan_War">"Mulai Perang Klan"</string>
-    <string name="Min_Level">"Level Minimal"</string>
+    <string name="Min_Level">"Minimal Level"</string>
     <string name="SAVE">"SIMPAN"</string>
     <string name="Player_does_not_meet_the_minimum_level_requirement_to_join_the_clan_">"Pemain tersebut tidak memenuhi persyaratan minimum untuk bergabung dengan klan ini:"</string>
-    <string name="Insufficient_Permission">"Tidak Cukup Izin"</string>
+    <string name="Insufficient_Permission">"Tidak Diizinkan"</string>
     <string name="DOMINATION">"DOMINASI"</string>
-    <string name="DOM_Domination">"Dominasi Dominasi"</string>
+    <string name="DOM_Domination">"DOM Dominasi"</string>
     <string name="DOM_Hat_Trick">"Dominasi Hat Trick"</string>
     <string name="Win_by_50_points_in_a_DOM_game_">"Menang dengan 50 poin dalam pertandingan Dominasi."</string>
     <string name="Score_33_points_in_a_single_DOM_game_">"Skor 33 poin dalam Dominasi permainan tunggal."</string>
@@ -479,7 +479,7 @@
     <string name="Team_Created_">"Tim Dibuat!"</string>
     <string name="Team_Arena">"Tim Arena"</string>
     <string name="No_Teams">"Tidak ada Tim"</string>
-    <string name="team_arena_info">"Setelah Anda membuat tim Anda dapat mengundang dan menghapus anggota secara gratis. Hal ini juga bebas untuk bermain pertandingan arena tim. Anda tidak dapat mengubah nama dari tim Anda setelah dibuat!"</string>
+    <string name="team_arena_info">"Setelah Anda membuat tim, Anda dapat mengundang dan menghapus anggota secara gratis. Hal ini juga bebas untuk bermain pertandingan arena tim. Anda tidak dapat mengubah nama dari tim Anda setelah dibuat!"</string>
     <string name="Invited">"Diundang"</string>
     <string name="Invitation_Sent">"Undangan Terkirim"</string>
     <string name="REPORT">"LAPORKAN"</string>
@@ -490,12 +490,12 @@
     <string name="Leave_Team">"Tinggalkan Tim"</string>
     <string name="Remove_Player">"Hapus Pemain"</string>
     <string name="Reject_Invitation">"Tolak Undangan"</string>
-    <string name="Leave_Game">"Tinggalkan Pertandingan"</string>
+    <string name="Leave_Game">"Tinggalkan Permainan"</string>
     <string name="Remove_Friend">"Hapus Teman"</string>
     <string name="Remove_Clan_Member">"Hapus Anggota Klan"</string>
-    <string name="Flag_lobby_as_inappropriate">"Sembunyikan Lobi sebagai tidak pantas"</string>
+    <string name="Flag_lobby_as_inappropriate">"Sembunyikan Lobi sebagai yang tidak pantas"</string>
     <string name="Promote_Clan_Member">"Promosikan Anggota Klan"</string>
-    <string name="Leave_Clan">"TINGGALKAN KLAN"</string>
+    <string name="Leave_Clan">"Tinggalkan Klan"</string>
     <string name="Candy_Hoarder">"Penimbun Permen"</string>
     <string name="Candy_Collector">"Kolektor Permen"</string>
     <string name="Candy_Mogul">"Mogul Permen"</string>
@@ -504,14 +504,14 @@
     <string name="Collect_10_000_candies_">"Mengumpulkan 10.000 Permen"</string>
     <string name="candies_">"Permen."</string>
     <string name="Language">"Bahasa"</string>
-    <string name="Control_Opacity_">"Opasitas Kontrol:"</string>
+    <string name="Control_Opacity_">"Kontrol Opasitas:"</string>
     <string name="You_dont_own_the_team_">"Anda tidak memiliki tim:"</string>
     <string name="User_has_already_been_invited_">"Pengguna telah diundang."</string>
     <string name="Maximum_players_allowed_on_the_team_">"Pemain maksimum yang diizinkan dalam Team:"</string>
-    <string name="Name_is_already_in_use_">"Nama telah digunakan."</string>
+    <string name="Name_is_already_in_use_">"Nama telah diambil."</string>
     <string name="User_is_not_in_the_team_">"Pengguna tidak dalam tim."</string>
     <string name="You_are_not_invited_to_team_">"Anda tidak diundang untuk tim:"</string>
-    <string name="Team_does_not_exist_">"Tim tidak ada:"</string>
+    <string name="Team_does_not_exist_">"Tidak ada tim:"</string>
     <string name="Please_wait_a_minute_before_sending_another_report_">"Harap tunggu sebentar sebelum mengirim laporan lain."</string>
     <string name="Collect_1_000_beads_">"Mengumpulkan 1.000 Manik-manik."</string>
     <string name="Collect_5_000_beads_">"Mengumpulkan 5.000 Manik-manik."</string>
@@ -520,22 +520,22 @@
     <string name="Bead_Hoarder">"Hoarder Manik-manik"</string>
     <string name="Bead_Mogul">"Mogul Manik-manik"</string>
     <string name="beads_">"Manik-manik."</string>
-    <string name="Rejoin_Game">"Bergabung Kembali Permainan"</string>
+    <string name="Rejoin_Game">"Bergabung Kembali Kedalam Permainan"</string>
     <string name="PRIZES">"HADIAH"</string>
     <string name="Enable_Custom_Skin">"Aktifkan Kustom Skin"</string>
-    <string name="Use_Custom_Skin">"Custom\nSkin"</string>
-    <string name="custom_skin_description">"Fitur ini memungkinkan Anda menggunakan foto profil Anda atau file Skin Anda. Ini hanya akan mengubah Skin yang anda lihat. Pemain lain tidak akan melihat Kustom Skin Anda."</string>
+    <string name="Use_Custom_Skin">"Gunakan Custom Skin"</string>
+    <string name="custom_skin_description">"Fitur ini memungkinkan Anda menggunakan foto profil Anda atau Skin dari file Anda. Ini hanya akan mengubah Skin yang anda lihat. Pemain lain tidak dapatmelihat Kustom Skin Anda."</string>
     <string name="CUSTOM_SKIN">"KUSTOM SKIN"</string>
     <string name="Facebook_Profile">"Profil Facebook"</string>
     <string name="You_must_be_signed_in_to_Facebook_">"Anda harus login ke Facebook."</string>
     <string name="copy_details">"Salin Rincian"</string>
-    <string name="copied_error_details_to_clipboard">"Disalin rincian ralat ke papan klip"</string>
+    <string name="copied_error_details_to_clipboard">"Disalin rincian error ke papan klip"</string>
     <string name="No_file_browser_installed_">"Tidak ada peramban file diinstal!"</string>
     <string name="Choose_File">"Pilih File"</string>
     <string name="Google_Profile">"Profil Google"</string>
     <string name="You_must_be_signed_in_to_Google_">"Anda harus login ke Google."</string>
     <string name="MAYHEM">"MAYHEM"</string>
-    <string name="eggs_">"Telur."</string>
+    <string name="eggs_">"telur."</string>
     <string name="Egg_Collector">"Kolektor Telur"</string>
     <string name="Egg_Hoarder">"Penimbun Telur"</string>
     <string name="Egg_Mogul">"Mogul Telur"</string>
@@ -544,22 +544,22 @@
     <string name="Collect_10_000_eggs_">"Mengumpulkan 10.000 Telur."</string>
     <string name="HISTORY">"RIWAYAT"</string>
     <string name="CLAN_HISTORY">"RIWAYAT KLAN"</string>
-    <string name="Love_Nebulous_">"Cinta Nebulous?"</string>
-    <string name="Please_support_Nebulous_by_rating_it_">"Mohon Dukungan Nebulous oleh penilaian ini."</string>
+    <string name="Love_Nebulous_">"Cinta Nebulous"</string>
+    <string name="Please_support_Nebulous_by_rating_it_">"Mohon Dukungan Nebulousx42 untuk penilaian ini."</string>
     <string name="MAYHEM_MODE">"MODE MAYHEM"</string>
     <string name="Times_Teleported_">"Kali Teleportasi:"</string>
     <string name="Powerups_Used_">"Powerup Digunakan:"</string>
     <string name="Power_Hungry">"Kekuatan Lapar"</string>
     <string name="Over_9000">"Lebih Dari 9000"</string>
-    <string name="Omnipresence">"Kehadiran di mana-mana"</string>
+    <string name="Omnipresence">"Hadir dimana-mana"</string>
     <string name="Shoot_9001_Powerups">"Tembak 9001 Powerup"</string>
     <string name="Teleport_100_Times">"Teleportasi 100 Kali"</string>
-    <string name="Shoot_20_Powerups_Without_Restarting">"Menembak 20 Powerup Tanpa Memulai Ulang"</string>
-    <string name="Request_Timed_Out">"Permintaan Waktu Habis"</string>
+    <string name="Shoot_20_Powerups_Without_Restarting">"Tembak 20 Powerup Tanpa Memulai Ulang"</string>
+    <string name="Request_Timed_Out">"Permintaan Waktu Telah Habis"</string>
     <string name="You_Are_Spectating_">"Anda sedang Menonton."</string>
     <string name="Account_In_Use_">"Akun sedang Digunakan!"</string>
-    <string name="Cannot_Join_Arena_">"Tidak bisa gabung Arena."</string>
-    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Meng-Logout akan putus koneksi Anda dari permainan saat!"</string>
+    <string name="Cannot_Join_Arena_">"Tidak bisa bergabung Kearena."</string>
+    <string name="Signing_out_will_disconnect_you_from_the_current_game">"Meng-Logout akun akan putus koneksi Anda dari permainan saat ini!"</string>
     <string name="raindrops_">"Rintik Hujan."</string>
     <string name="Raindrop_Collector">"Kolektor Rintik Hujan"</string>
     <string name="Raindrop_Hoarder">"Penimbun Rintik Hujan"</string>
@@ -572,10 +572,10 @@
     <string name="COPY_NAME">"SALIN NAMA"</string>
     <string name="Challenge_Sent">"Tantangan Dikirim"</string>
     <string name="_1v1_Challenge_">"Tantangan 1v1!"</string>
-    <string name="__has_challenged_you_to_a_1v1_match_">"%s telah menantang Anda untuk pertandingan 1v1!"</string>
+    <string name="__has_challenged_you_to_a_1v1_match_">"%s menantang Anda untuk pertandingan 1v1!"</string>
     <string name="Challenge_Expired">"Tantangan Kedaluwarsa"</string>
     <string name="Enable_Challenges">"Aktifkan Tantangan"</string>
-    <string name="Wait_for_the_current_challenge_to_expire_">"Tunggu tantangan saat ini berakhir."</string>
+    <string name="Wait_for_the_current_challenge_to_expire_">"Tunggu tantangan saat ini sampai berakhir."</string>
     <string name="CHALLENGE_OPTIONS">"PILIHAN TANTANGAN"</string>
     <string name="Accept">"Terima"</string>
     <string name="Decline">"Tolak"</string>
@@ -604,7 +604,7 @@
     <string name="Collect_10_000_suns_">"Mengumpulkan 10.000 Matahari."</string>
     <string name="Reward_Videos_">"Hadiah Video!"</string>
     <string name="Free_Plasma_">"Plasma Gratis!"</string>
-    <string name="moons_">"Bulan."</string>
+    <string name="moons_">"bulan."</string>
     <string name="Moon_Collector">"Kolektor Bulan"</string>
     <string name="Moon_Hoarder">"Penimbun Bulan"</string>
     <string name="Moon_Mogul">"Mogul Bulan"</string>
@@ -615,10 +615,10 @@
     <string name="HOST">"HOST"</string>
     <string name="This_device_does_not_support_bluetooth_">"Perangkat ini tidak mendukung bluetooth."</string>
     <string name="member_permissions">"Izin Anggota"</string>
-    <string name="edit">"SUNTING"</string>
+    <string name="edit">"edit"</string>
     <string name="start_clan_war">"Mulai Perang Klan"</string>
     <string name="join_clan_war">"Gabung Perang Klan"</string>
-    <string name="none">"TIDAK ADA"</string>
+    <string name="none">"tidak ada"</string>
     <string name="INVALID_TOKEN">"TOKEN TIDAK VALID!"</string>
     <string name="banned_until">"Dilarang sampai "</string>
     <string name="Note_Collector">"Kolektor Catatan"</string>
@@ -628,7 +628,7 @@
     <string name="Collect_5_000_notes_">"Mengumpulkan 5.000 Catatan."</string>
     <string name="Collect_10_000_notes_">"Mengumpulkan 10.000 Catatan."</string>
     <string name="notes_">"Catatan."</string>
-    <string name="CLICK_CHEAT_DETECTED_">"KLIK KECURANGAN TERDETEKSI!"</string>
+    <string name="CLICK_CHEAT_DETECTED_">"KECURANGAN KLIK TERDETEKSI!"</string>
     <string name="Pumpkin_Hoarder">"Penimbun Labu"</string>
     <string name="Pumpkin_Mogul">"Mogul Labu"</string>
     <string name="Leaf_Mogul">"Mogul Daun"</string>
@@ -636,7 +636,7 @@
     <string name="Collect_10000_pumpkins_">"Mengumpulkan 10.000 Labu."</string>
     <string name="Collect_10000_leaves_">"Mengumpulkan 10.000 Daun."</string>
     <string name="Eject">"Mengeluarkan"</string>
-    <string name="Eject_Skin">"Skin Luar"</string>
+    <string name="Eject_Skin">"Skin Feed"</string>
     <string name="Double_Plasma__">"Plasma Dobel!!"</string>
     <string name="Ends">"Berakhir"</string>
     <string name="Select_Clan_Member">"Pilih Anggota Klan"</string>
@@ -646,33 +646,33 @@
     <string name="Refunded">"Dikembalikan"</string>
     <string name="contribution_warning">"Apakah Anda yakin ingin menyumbangkan plasma ini? Kontribusi tidak akan dikembalikan."</string>
     <string name="Upload">"Mengunggah"</string>
-    <string name="upload_warning">"Apakah Anda yakin ingin mengunggah Skin ini? pemain lain akan dapat melihat Skin ini. Ini bisa memakan waktu hingga satu minggu untuk Skin anda untuk ditinjau. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
+    <string name="upload_warning">"Apakah Anda yakin ingin mengunggah Skin ini? pemain lain akan dapat melihat Skin ini. Ini bisa memakan waktu hingga satu sampai tujuh hari untuk meninjau Skin anda. Skin yang tidak pantas akan ditolak dan tidak akan dikembalikan!"</string>
     <string name="In_Review">"Dalam Ulasan"</string>
     <string name="Account_Uploads">"Skin Unggahan Saya"</string>
-    <string name="Clan_Uploads">"Klan Skin Upload"</string>
+    <string name="Clan_Uploads">"Klan Upload"</string>
     <string name="Empty">"Kosong"</string>
     <string name="Select">"Pilih"</string>
     <string name="Current_Skin">"Skin Saat ini"</string>
     <string name="Status">"Status"</string>
-    <string name="upload_size_failure">"Tidak bisa mengunggah gambar ini karena terlalu besar. Silakan coba gambar yang berbeda."</string>
-    <string name="CONTRIBUTE_PLASMA">"MENYUMBANG PLASMA"</string>
-    <string name="Specify_Contribution_Amount">"Tentukan Jumlah Sumbangan"</string>
-    <string name="Clan_Contribution">"Klan Sumbangan"</string>
+    <string name="upload_size_failure">"Tidak bisa mengunggah gambar ini karena terlalu besar. Silakan coba gambar yang lain."</string>
+    <string name="CONTRIBUTE_PLASMA">"DONASI PLASMA"</string>
+    <string name="Specify_Contribution_Amount">"Tentukan Jumlah Donasi"</string>
+    <string name="Clan_Contribution">"Donasi Klan"</string>
     <string name="FILTER">"PENYARING"</string>
     <string name="List_Count_">"Daftar Hitungan:"</string>
-    <string name="Download_Skins">"Tampilkan Unduh Skin"</string>
+    <string name="Download_Skins">"Unduhan Skin"</string>
     <string name="ARENA_HISTORY">"RIWAYAT ARENA"</string>
     <string name="WIN">"MENANG"</string>
     <string name="LOSS">"KALAH"</string>
-    <string name="Other_players_can_not_see_your_skin_">"Pemain lain tidak bisa melihat Skin Anda."</string>
-    <string name="Other_players_can_see_your_skin_">"Pemain lain bisa melihat Skin Anda."</string>
+    <string name="Other_players_can_not_see_your_skin_">"Pemain lain tidak dapat melihat Skin Anda."</string>
+    <string name="Other_players_can_see_your_skin_">"Pemain lain dapat melihat Skin Anda."</string>
     <string name="LEGEND">"LEGENDA"</string>
     <string name="Win_10000_Arenas">"Menang 10.000 Arena"</string>
     <string name="UPLOAD_PREVIEW">"UPLOAD DI PRATINJAU"</string>
     <string name="Transparency">"Transparansi"</string>
-    <string name="upload_info">"Anda dapat mencapai kualitas yang lebih baik tanpa Transparansi atau dengan gambar sederhana."</string>
+    <string name="upload_info">"Anda dapat mencapai kualitas yang lebih tinggi tanpa Transparansi atau dengan gambar sederhana."</string>
     <string name="Compression_Quality_">"Kualitas Kompresi:"</string>
-    <string name="inapproriate_info">"Skin yang tidak pantas mencakup apa pun yang melibatkan kebencian, gore, kecabulan, kekerasan, narkoba, seks, ketelanjangan, narsis seluruh tubuh, ketidakjelasan, tidak dapat dimengerti, dan Skin Nebulous Tanpa Dimodifikasi."</string>
+    <string name="inapproriate_info">"Skin tidak pantas yang mencakup apa pun yang melibatkan kebencian, pencabulan, kekerasan, narkoba, seks, ketelanjangan, narsis seluruh tubuh, ketidakjelasan, tidak dapat dimengerti, dan Skin Nebulous Tanpa Dimodifikasi."</string>
     <string name="Are_you_sure_you_want_to_upload_this_skin_">"Apakah Anda yakin ingin mengunggah Skin ini?"</string>
     <string name="Grant_Permission">"Memberikan Izin"</string>
     <string name="Nebulous_needs_Storage_permissions_to_backup_your_single_player_progress_">"Nebulous perlu izin penyimpanan untuk cadangan kemajuan pemain tunggal Anda!"</string>
@@ -696,16 +696,16 @@
     <string name="Delete_Message">"Hapus Pesan"</string>
     <string name="BLOCK">"BLOKIR"</string>
     <string name="DELETE">"HAPUS"</string>
-    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Catatan Penting: Jika anda ingin mengetahui seseorang sudah dibuka blokir, kirim permintaan teman ke pada orang itu, jika permintaan teman terlihat di daftar teman anda itu berarti sudah terbuka blokir."</string>
+    <string name="Note__You_can_unblock_someone_by_sending_them_a_friend_request_">"Catatan Penting: Jika anda ingin mengetahui seseorang sudah dibuka blokir, kirim permintaan teman ke pada orangtersebut, jika permintaan teman terlihat di daftar teman anda, itu berarti orang tersebut sudah terbuka blokir."</string>
     <string name="Select_Friend">"Pilih Teman"</string>
-    <string name="Failed_to_send_mail_">"Kirim surat gagal."</string>
+    <string name="Failed_to_send_mail_">"Pengiriman surat gagal."</string>
     <string name="In_Game_Mail">"Tampilkan Mail Permainan"</string>
     <string name="Nav_Buttons_">"Tombol Navigasi:"</string>
-    <string name="account_warning">"Jangan pernah berbagi password akun Anda atau informasi pribadi dengan siapa pun untuk alasan apapun!"</string>
-    <string name="Clan_Hero">"PAHLAWAN KLAN"</string>
+    <string name="account_warning">"Jangan pernah berbagi password akun Anda atau informasi pribadi kepada siapa pun untuk alasan apapun!"</string>
+    <string name="Clan_Hero">"Pahlawan Hero"</string>
     <string name="Win_1000_Clan_Wars">"Menang 1.000 Klan Wars"</string>
     <string name="NAME_COLOR">"WARNA NAMA"</string>
-    <string name="name_color_instructions">"Pilih karakter huruf yang ingin Anda ubah kemudian pilih warna yang akan Anda taruh ke huruf itu untuk merubah warna huruf itu."</string>
+    <string name="name_color_instructions">"Pilih karakter huruf yang ingin Anda ubah kemudian pilih warna yang akan Anda taruh ke huruf itu untuk mengubah warna huruf itu."</string>
     <string name="Cannot_change_this_character_">"Tidak dapat mengubah karakter ini"</string>
     <string name="ZOMBIE_APOCALYPSE">"KIAMAT ZOMBI"</string>
     <string name="Survive_a_Zombie_Apocalypse">"Bertahan Kiamat Zombi"</string>
@@ -713,17 +713,17 @@
     <string name="Pandemic">"Pandemi"</string>
     <string name="Immunity">"Kekebalan"</string>
     <string name="Win_as_zombies_in_2_minutes_or_less_">"Menang sebagai zombi dalam 2 menit atau kurang."</string>
-    <string name="Win_as_survivors_with_no_losses_">"Menang sebagai pemain selamat tanpa termakan oleh zombi atau kerugian Gumpalan."</string>
+    <string name="Win_as_survivors_with_no_losses_">"Menang sebagai pemain selamat tanpa termakan oleh zombi atau kehilangan Gumpalan."</string>
     <string name="ZOMBIE_">"ZOMBI!"</string>
     <string name="SURVIVOR_">"SELAMAT!"</string>
     <string name="Zombies">"Zombi"</string>
     <string name="Survivors">"Selamat"</string>
-    <string name="Enter_a_Tournament">"Masuk Turnamen"</string>
+    <string name="Enter_a_Tournament">"Memasuki Turnamen"</string>
     <string name="Win_a_Tournament">"Memenangkan Turnamen"</string>
     <string name="Tournament_Competing">"Turnamen Bersaing"</string>
     <string name="Tournament_Registered">"Turnamen Terdaftar"</string>
     <string name="Tournament">"Turnamen"</string>
-    <string name="TourneyDescription">"Anda harus mendaftar untuk bermain di turnamen. Anda akan dikenakan biaya plasma ketika turnamen dimulai, tetapi Anda dapat membatalkan registrasi sebelum dimulai. Turnamen ini akan dimulai ketika ada setidaknya %d kontestan."</string>
+    <string name="TourneyDescription">"Anda harus mendaftar terlebih dahulu untuk bermain di turnamen. Anda akan dikenakan biaya plasma ketika turnamen dimulai, tetapi Anda dapat membatalkan registrasi sebelum turnamen dimulai. Turnamen akan segera dimulai ketika ada setidaknya %d kontestan."</string>
     <string name="Register">"Daftar"</string>
     <string name="Registered">"Terdaftar"</string>
     <string name="Not_Registered">"Tidak Terdaftar"</string>
@@ -787,13 +787,13 @@
     <string name="MOD">MOD</string>
     <string name="FAQ">Pertanyaan Umum / Informasi</string>
     <string name="BUY_EXTRA_SPINS">BELI PUTARAN EKSTRA</string>
-    <string name="Spins_Remaining">Putaran Tersisa</string>
+    <string name="Spins_Remaining">Sisa Putaran</string>
     <string name="One_Spin">Satu Putaran (1)</string>
     <string name="Bundle_of_Spins">Putaran Bundel (10)</string>
     <string name="Plethora_of_Spins">Putaran Kebanyakan (50)</string>
     <string name="SIGN_OUT_ALL_DEVICES">LOGOUT DARI SEMUA PERANGKAT</string>
     <string name="Tournament_Forming">Turnamen Terbentuk</string>
-    <string name="TeamTourneyDescription">Anda dan rekan Anda harus mendaftar untuk bermain di turnamen tim. Anda akan dikenakan plasma ketika turnamen dimulai tetapi Anda dapat membatalkan registrasi sebelum dimulai. Membutuhkan setidaknya %d kontestan untuk memulai.</string>
+    <string name="TeamTourneyDescription">Anda dan rekan Anda harus mendaftar terlebih dahulu untuk bermain di turnamen tim. Anda akan dikenakan plasma ketika turnamen dimulai tetapi Anda dapat membatalkan pendaftaran sebelum pertandingan dimulai. Membutuhkan setidaknya %d kontestan untuk memulai.</string>
     <string name="Free_Agent">Agen Bebas</string>
     <string name="This_player_selected_a_different_teammate_">Pemain ini dipilih rekan satu tim yang berbeda.</string>
     <string name="muted_until">Dibisukan Sampai</string>
@@ -826,7 +826,7 @@
     <string name="Pet">Pet</string>
     <string name="You_can_purchase_this_pet_for">Anda bisa membeli pet ini</string>
     <string name="gift_to_friend">Hadiah Ke Teman</string>
-    <string name="gift_purchase_warning">Anda tidak akan menerima pembelian ini karena Anda telah memilih untuk hadiah pembelian ini kepada seseorang teman.</string>
+    <string name="gift_purchase_warning">Anda tidak akan menerima pembelian ini karena Anda telah memilih untuk menghadiahkan pembelian ini kepada seorang teman.</string>
     <string name="x2_Clan_XP_7_Days">2x Xp Klan 7 Hari</string>
     <string name="RECEIVED">DITERIMA</string>
     <string name="SENT">TERKIRIM</string>
@@ -839,7 +839,7 @@
     <string name="Wait_for_the_current_invitation_to_expire_">Menunggu Undangan Saat ini Habis Masa Berlakunya.</string>
     <string name="BLOB_COLOR">WARNA GUMPALAN</string>
     <string name="ENABLED">DIAKTIFKAN</string>
-    <string name="Enable_Custom_Blob_Color">Aktifkan Warna Gumpalan Kustom</string>
+    <string name="Enable_Custom_Blob_Color">Aktifkan Kustom Warna Gumpalan</string>
     <string name="Choose_Menu">Pilih Menu</string>
     <string name="SPECTATE">MENONTON</string>
     <string name="INVITE">UNDANG</string>
@@ -850,7 +850,7 @@
     <string name="BLOB">GUMPALAN</string>
     <string name="Clan_Pet_Uploads">Klan Skin Pet Upload</string>
     <string name="YT">YT</string>
-    <string name="FREE_TODAY">GRATIS HARI INI!</string>
+    <string name="FREE_TODAY">GRATIS UNTUK HARI INI!</string>
     <string name="Cannot_cancel_this_skin_yet_">Belum bisa membatalkan skin ini.</string>
     <string name="SPLIT_16X">SPLIT 16x</string>
     <string name="SET_PUBLIC_DESCRIPTION">ATUR DESKRIPSI PUBLIK</string>
@@ -869,7 +869,7 @@
     <string name="Open_Present">Buka Hadiah</string>
     <string name="OPEN">BUKA</string>
     <string name="Halo">Lingkaran Cahaya</string>
-    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Untuk menggunakan Halo ini, Anda harus setidaknya Level %1$s dan mendapatkan prestasi %2$s."</string>
+    <string name="To_use_this_halo_you_must_be_at_least_level_s_and_unlock_s_achievements">"Untuk menggunakan Halo ini, Anda harus mencapai Level %1$s dan mendapatkan prestasi %2$s."</string>
     <string name="Halos">Lingkaran Cahaya</string>
     <string name="CAMPAIGN">KAMPANYE</string>
     <string name="Mission">Misi</string>
@@ -884,16 +884,16 @@
     <string name="Name_Opacity_">Opasitas Nama:</string>
     <string name="SET_PROFILE_PIC">ATUR GAMBAR PROFIL</string>
     <string name="ACCEPT_ALL_FRIEND_INVITATIONS_">TERIMA SEMUA PERMINTAAN PERTEMANAN!</string>
-    <string name="App_Perf_Stats">Statistik Kinerja Apk</string>
+    <string name="App_Perf_Stats">Statistik Kinerja Aplikasi</string>
     <string name="COPY">SALIN</string>
     <string name="_1v1_Ultra">1v1 Ultra</string>
     <string name="ArenaDescriptionUltra">Pemenang akan mendapatkan %s plasma.</string>
     <string name="BANNED">DILARANG</string>
     <string name="CLAN_MEMBERS">ANGGOTA KLAN</string>
-    <string name="CLAN_REQUESTS">PERSETUJUAN ANGGOTA</string>
+    <string name="CLAN_REQUESTS">PERSETUJUAN CLAN</string>
     <string name="Pet_1">Pet 1</string>
     <string name="Pet_2">Pet 2</string>
-    <string name="Second_Pet">Anda dapat menggunakan 2 Pet sekaligus!</string>
+    <string name="Second_Pet">Anda bisa menggunakan 2 Pet sekaligus!</string>
     <string name="This_item_requires">Item ini memerlukan </string>
     <string name="not_enough_plasma">Plasma tidak cukup.</string>
     <string name="MARK_UNREAD">TANDAI BELUM DIBACA</string>
@@ -913,19 +913,19 @@
     <string name="Birthday">Ulang tahun</string>
     <string name="Mass_Boost">Massa Tambahan</string>
     <string name="Mass_Boost_does_not_work_in_arenas_and_tournaments_">Massa Tambahan tidak berfungsi di arena, turnamen, atau klan perang!</string>
-    <string name="ArenaDescriptionPure">TIDAK BISA menggunakan autoklik atau ultraklik. Anda hanya dapat satu nyawa. Pemenang akan mendapatkan %s plasma.</string>
-    <string name="_1v1_Pure">1v1 Murni</string>
+    <string name="ArenaDescriptionPure">TIDAK BISA menggunakan autoklik atau ultraklik. Anda hanya punya satu nyawa. Pemenang akan mendapatkan %s plasma.</string>
+    <string name=4x1"_1v1_Pure">1v1 Murni</string>
     <string name="Allow_Ultraclick">Membolehkan Ultraklik</string>
     <string name="Allow_Mass_Boost">Membolehkan Massa Tambahan</string>
     <string name="Challenges_Won_">Tantangan Dimenangkan:</string>
-    <string name="trophy_info">Piala diberikan pada akhir setiap musim arena atau arena tim untuk posisi pertama, kedua, dan ketiga. Piala hanya diberikan di server aktif dengan banyak pemain.</string>
+    <string name="trophy_info">Piala diberikan pada akhir setiap musim arena atau tim arena untuk posisi pertama, kedua, dan ketiga. Piala hanya diberikan di server aktif dengan banyak pemain arena.</string>
     <string name="BLOCKED">DIBLOKIR</string>
-    <string name="CLAN_WAR_HISTORY">RIWAYAT KLAN WAR</string>
+    <string name="CLAN_WAR_HISTORY">RIWAYAT KLAN PERANG</string>
     <string name="Particle">Partikel</string>
     <string name="Privacy">Privasi</string>
     <string name="EULA">EULA</string>
-    <string name="You_can_purchase_this_hat_for">Kamu bisa membeli topi ini untuk</string>
-    <string name="You_can_purchase_this_particle_for">Kamu bisa membeli partikel ini untuk</string>
+    <string name="You_can_purchase_this_hat_for">Kamu dapat membeli topi ini untuk</string>
+    <string name="You_can_purchase_this_particle_for">Kamu dapat membeli partikel ini untuk</string>
     <string name="You_can_purchase_this_eject_skin_for">Kamu bisa membeli skin eject ini untuk</string>
     <string name="Skin">Skin</string>
     <string name="Custom_Skin">Kustom Skin</string>
@@ -934,7 +934,7 @@
     <string name="POSITION_CONTROL_STICK">"POSISI KONTROL STIK"</string>
     <string name="POSITION_SPLIT_BUTTON">POSISI TOMBOL SPLIT </string>
     <string name="POSITION_EJECT_BUTTON">POSISI TOMBOL EJECT</string>
-    <string name="POSITION_EJECT_TOGGLE_BUTTON">POSITION TOMBOL SAKELAR EJECT</string>
+    <string name="POSITION_EJECT_TOGGLE_BUTTON">POSISI TOMBOL SAKELAR EJECT</string>
     <string name="WIFI">WIFI</string>
     <string name="JOIN_IP">GABUNG IP</string>
     <string name="Specify_Host_IP">Tentukan IP Host </string>
@@ -942,7 +942,7 @@
     <string name="WORLD_CUP_EVENT___">EVENT PIALA DUNIA!!!</string>
     <string name="world_cup_event_description">XP dan Plasma Ganda dalam Mode Sepak Bola hingga piala dunia berakhir!</string>
     <string name="GIF_Skins">Skin GIF</string>
-    <string name="PLAY_ONLINE_">MAINKAN ONLINE!</string>
+    <string name="PLAY_ONLINE_">BERMAIN ONLINE!</string>
     <string name="Absorb_10_000_000_dots">Menyerap 10.000.000 titik-titik</string>
     <string name="Dot_Deity">Dot Dewa</string>
     <string name="Mass_Mastery">Penguasaan Massa</string>
@@ -953,7 +953,7 @@
     <string name="Community">Komunitas</string>
     <string name="Buy">Beli</string>
     <string name="Sell">Jual</string>
-    <string name="community_skin_requirement">Anda harus membeli Enable Custom Skin untuk menggunakan  komunitas skin.</string>
+    <string name="community_skin_requirement">Anda harus membeli Enable Kustom Skin untuk menggunakan  skin komunitas.</string>
     <string name="You_can_purchase_this_community_skin_for_">Anda dapat membeli skin komunitas ini untuk</string>
     <string name="VIEW_UPLOADER">LIHAT PENGUNGGAH</string>
     <string name="POPULAR">POPULER</string>
@@ -978,14 +978,14 @@
     <string name="PUSH_SPLIT">DORONG SPLIT</string>
     <string name="Level_Colors">Warna Level</string>
     <string name="click_info">Autoklik / Ultraklik tidak berfungsi di mode FFA KLASIK</string>
-    <string name="Hooked">Berkait</string>
+    <string name="Hooked">Terkait</string>
     <string name="Be_pulled_by_a_hookshot_spell_for_10_seconds">Ditarik dengan hookshot selama 10 detik</string>
     <string name="Pack">Paket</string>
-    <string name="Skin_Pack">Skin Paket</string>
-    <string name="SKIN_PACK">SKIN PAKET</string>
+    <string name="Skin_Pack">Paket Skin</string>
+    <string name="SKIN_PACK">PAKET SKIN</string>
     <string name="HALLOWEEN">HALLOWEEN</string>
     <string name="pack_info">Setelah Anda membeli paket skin ini, skin eksklusif Anda akan muncul di bagian atas menu pilihan skin.</string>
-    <string name="EXCLUSIVE_skins_pets_hats_and_more_">PAKET EKSKLUSIF : Skin, Pet, Topi dan Lainnya!</string>
+    <string name="EXCLUSIVE_skins_pets_hats_and_more_">PAKET EKSKLUSIF : Skin, Pet, Topi, Partikel, Lingkaran cahaya, dan Skin luar!</string>
     <string name="BUY_NOW_">BELI SEKARANG!</string>
     <string name="already_purchased">Anda telah memiliki paket skin ini.</string>
     <string name="Halo_Animations">Animasi Lingkaran Cahaya</string>
@@ -1086,18 +1086,18 @@
     <string name="Spectate_Killer_On_Death">Tonton Pembunuh Saat Kematian</string>
     <string name="Rainbow_Holes">Lubang Pelangi</string>
     <string name="LIFE_STEAL">MENCURI NYAWA</string>
-    <string name="Kicked_From_Game_">Dihapuskan Dari Permainan!</string>
+    <string name="Kicked_From_Game_">Dikeluarkan Dari Permainan!</string>
     <string name="Conquest">Penaklukan</string>
     <string name="Finish_the_last_mission_in_the_campaign_">Selesaikan misi terakhir di mode kampanye.</string>
     <string name="Collected_">Dikumpulkan:</string>
     <string name="Collisions_">Tabrakan:</string>
     <string name="Absorbed_">Diserap:</string>
-    <string name="team_warning">Bekerja sama dengan pemain yang bukan anggota tim Anda akan dikenakan DILARANG!</string>
-    <string name="Search_Filter">Penyaring Pencarian</string>
+    <string name="team_warning"> Tidak boleh Bekerja sama dengan pemain yang bukan anggota dari tim Anda</string>
+    <string name="Search_Filter">saring Pencarian</string>
     <string name="Received_">Menerima:</string>
     <string name="Opponent_Rating_Limit_">Batas Peringkat Lawan:</string>
     <string name="TOGGLE_FAVORITE">TOMBOL FAVORIT</string>
-    <string name="Favorited">Favorit</string>
+    <string name="Favorited">Favoritkan</string>
     <string name="Unfavorited">Tidak Favorit</string>
     <string name="Background_Scale_">Ukuran Latarbelakang:</string>
     <string name="Background_Lightness_">Kecerahan Latarbelakang:</string>
@@ -1112,7 +1112,7 @@
     <string name="HERO">PAHLAWAN</string>
     <string name="CHAMPION">JUARA</string>
     <string name="DASH">BERLARI</string>
-    <string name="setting_changed">Pengaturan diperbarui. Anda mungkin perlu menyambung kembali ke server agar dapat diterapkan.</string>
+    <string name="setting_changed">Pengaturan telah diperbarui. Anda mungkin perlu menyambung kembali ke server agar dapat diterapkan.</string>
     <string name="Perform_10_1000_tricks_in_a_Trick_Mode_game_">Melakukan 10.000 trik dalam permainan trik mode.</string>
     <string name="Tricky">Penuh Akal</string>
     <string name="SUPPORTER">VIP</string>
@@ -1134,15 +1134,15 @@
     <string name="Animal_Tamer">Pawang</string>
     <string name="Crocodile_Hunter">Pemburu Buaya</string>
     <string name="Get_A_Pet_To_Level_X_">Naikkan pet ke level %d.</string>
-    <string name="plasma_boost_info">"Anda mendapatkan plasma tiga kali lipat dari semua sumber DALAM PERMAINAN saat ini aktif! Ini termasuk kemenangan arena dan turnamen! TIDAK berlaku pada pembelian plasma, roda putaran, atau hadiah khusus."</string>
+    <string name="plasma_boost_info">"Anda mendapatkan plasma 3x dari semua sumber DALAM PERMAINAN saat ini aktif! Termasuk kemenangan arena dan turnamen! TIDAK berlaku pada pembelian plasma, roda putaran, atau hadiah khusus."</string>
     <string name="Plasma_Boost_7_Days_">Plasma Tambahan 7 Hari!</string>
     <string name="Plasma_Boost_1_Day_">Plasma Tambahan 1 Hari!</string>
     <string name="Plasma_Boost_2_Hours_">Plasma Tambahan 2 Jam.</string>
     <string name="Plasma_Boost">Plasma Tambahan</string>
-    <string name="particle_info">Anda harus minimal level 50 dan menggunakan skin dasar dengan partikel untuk melihat partikel apa pun.</string>
+    <string name="particle_info">Anda harus mencapai  level 50 dan menggunakan skin dasar dengan partikel untuk melihat partikel apa pun.</string>
     <string name="Plain_Score_Text">"Teks Skor Biasa"</string>
     <string name="Custom_Skin_Reviewed_Notification">Kustom Skin Anda Telah Ditinjau!</string>
-    <string name="You_Have_Mail_">Anda menerima surat dari %s!</string>
+    <string name="You_Have_Mail_">Surat dari %s!</string>
     <string name="Clan_Request_Reviewed_Notification">Permintaan Anda Untuk Bergabung dengan Klan %s Telah Ditinjau!</string>
     <string name="CRAZY_SPLIT">CRAZY SPLIT 32x</string>
     <string name="Sold_Community_Skins_">"Skin Komunitas Terjual: "</string>
@@ -1164,7 +1164,7 @@
 Perintah:
 !kick [0–31]
 !reset
-!welcome {pesan}
+!welcome {Teks}
 !difficulty [0-3] atau [1-4] dengan Kampanye
 !hidden
 !slowchat
@@ -1190,7 +1190,7 @@ Perintah:
     <string name="DELETE_ACCOUNT">HAPUS AKUN</string>
     <string name="delete_prompt">Apakah Anda yakin ingin menghapus akun Anda? Ini PERMANEN dan TIDAK DAPAT DIBATALKAN!</string>
     <string name="Type">Ketik</string>
-    <string name="Complete_campaign_mission_">Selesaikan kampanye misi</string>
+    <string name="Complete_campaign_mission_">Selesaikan misi kampanye</string>
     <string name="Specify_Reason_">Alasan spesifik:</string>
     <string name="FREE_FOR_ALL">GRATIS UNTUK SEMUA</string>
     <string name="SPECIAL">SPESIAL</string>
@@ -1229,7 +1229,7 @@ Perintah:
         <item>"Seret Menuju"</item>
         <item>"Membawa"</item>
         <item>"Sentuh dan Pergi"</item>
-        <item>"Memiringkan"</item>
+        <item>"Miringkan"</item>
     </string-array>
 
     <string-array name="button_modes">
