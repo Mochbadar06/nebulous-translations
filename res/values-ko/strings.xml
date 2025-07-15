@@ -147,14 +147,14 @@
     <string name="Clan_XP">"클랜 경험치"</string>
 
 
-    <string name="Dot_Nibbler">"도트를 야금야금"</string>
-    <string name="Dot_Muncher">"도트를 아삭아삭"</string>
-    <string name="Dot_Eater">"도트를 먹는 자"</string>
-    <string name="Dot_Gulper">"도트를 벌컥벌컥"</string>
-    <string name="Dot_Gobbler">"도트 탐식가"</string>
-    <string name="Dot_Devourer">"도트 대식가"</string>
-    <string name="Dot_Gormandizer">"도트 걸귀"</string>
-    <string name="Dot_Sommelier">"도트 소믈리에"</string>
+    <string name="Dot_Nibbler">"점 씹는 사람"</string>
+    <string name="Dot_Muncher">"점 먹는 사람"</string>
+    <string name="Dot_Eater">"점 먹는 사람"</string>
+    <string name="Dot_Gulper">"점 삼키는 사람"</string>
+    <string name="Dot_Gobbler">" 점 게걸스럽게 먹는 사람"</string>
+    <string name="Dot_Devourer">"점 게걸먹는 사람"</string>
+    <string name="Dot_Gormandizer">"점 과식가"</string>
+    <string name="Dot_Sommelier">"점 맛 감별사"</string>
 
     <string name="Quadra_Gulp">"쿼드라 꿀꺽"</string>
     <string name="Multi_Gulp">"멀티플 꿀꺽"</string>
@@ -179,7 +179,7 @@
 
     <string name="Perfection">"완벽"</string>
     <string name="Single_Handedly">"혼자 스스로"</string>
-    <string name="Dodgey">"신속한 회피"</string>
+    <string name="Dodgey">"회피"</string>
     <string name="Self_Contained">"독립적"</string>
     <string name="Survivalist">"생존주의자"</string>
     <string name="Ultramassive">"파란것은 영양가가 높은 귀중한 블랙홀이죠"</string>
@@ -187,14 +187,14 @@
     <string name="Revenge">"복수"</string>
     <string name="Doge_Pound">"개 박살!"</string>
 
-    <string name="Absorb_50_dots">"도트 50 개 먹기"</string>
-    <string name="Absorb_300_dots">"도트 300 개 먹기"</string>
-    <string name="Absorb_1_000_dots">"도트 1,000 개 먹기"</string>
-    <string name="Absorb_5_000_dots">"도트 5,000개 먹기"</string>
-    <string name="Absorb_10_000_dots">"도트 10,000 개 먹기"</string>
-    <string name="Absorb_50_000_dots">"도트 50,000 개 먹기"</string>
-    <string name="Absorb_100_000_dots">"도트 100,000 개 먹기"</string>
-    <string name="Absorb_1_000_000_dots">"도트 1,000,000 개 먹기"</string>
+    <string name="Absorb_50_dots">"점 50 개 먹기"</string>
+    <string name="Absorb_300_dots">"점 300 개 먹기"</string>
+    <string name="Absorb_1_000_dots">"점 1,000 개 먹기"</string>
+    <string name="Absorb_5_000_dots">"점 5,000개 먹기"</string>
+    <string name="Absorb_10_000_dots">"점 10,000 개 먹기"</string>
+    <string name="Absorb_50_000_dots">"점 50,000 개 먹기"</string>
+    <string name="Absorb_100_000_dots">"점 100,000 개 먹기"</string>
+    <string name="Absorb_1_000_000_dots">"점 1,000,000 개 먹기"</string>
 
     <string name="Absorb_4_blobs_quickly">"4 개의 방울 빨리 흡수"</string>
     <string name="Absorb_8_blobs_quickly">"8 개의 방울 빨리 흡수"</string>
