@@ -163,13 +163,13 @@
     <string name="Monster_Gulp">"몬스터 꿀꺽"</string>
     <string name="Ludicrous_Gulp">"최고의 꿀꺽"</string>
 
-    <string name="Blobicide">"방울 살인마"</string>
-    <string name="Blobtrocity">"방울 학대자"</string>
-    <string name="Blobaccre">"방울 대학살"</string>
-    <string name="Blobastrophe">"방울 대소동"</string>
-    <string name="Blobihilation">"방울 종말"</string>
-    <string name="Blobageddon">"방울겟돈"</string>
-    <string name="Blobocalypse">"방울 대재앙"</string>
+    <string name="Blobicide">"블로비사이드"</string>
+    <string name="Blobtrocity">""Blobtrocity"블롭트로시티"</string>
+    <string name="Blobaccre">"블롭 만행"</string>
+    <string name="Blobastrophe">"블롭 에이커"</string>
+    <string name="Blobihilation">"블롭 대재앙"</string>
+    <string name="Blobageddon">"블롭 멸절"</string>
+    <string name="Blobocalypse">"블롭 대재앙"</string>
 
     <string name="Experienced_Nebulator">"네뷸러스 경험자"</string>
     <string name="Expert_Nebulator">"네뷸러스 전문가"</string>
