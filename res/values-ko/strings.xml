@@ -368,9 +368,9 @@
     <string name="High_Score">"최고 점수"</string>
 
 
-    <string name="_3v3">"3:3"</string>
-    <string name="_5v5">"5:5"</string>
-    <string name="_8v8">"8:8"</string>
+    <string name="_3v3">"3ㄷ3"</string>
+    <string name="_5v5">"5ㄷ5"</string>
+    <string name="_8v8">"8ㄷ8"</string>
     <string name="Top_Ranks">"상위권 랭킹"</string>
     <string name="My_Ranks">"내 랭킹"</string>
     <string name="Player_XP">"플레이어 경험치"</string>
@@ -471,17 +471,17 @@
     <string name="Plasma_Purchases">"플라즈마 구매"</string>
 
     <string name="ENTER">"입장"</string>
-    <string name="_1v1">"1:1"</string>
+    <string name="_1v1">"1ㄷ1"</string>
     <string name="Practice">"연습"</string>
     <string name="ArenaDescription">"당신은 단 하나의 생명을 받습니다. 승자는 %s 개의 플라즈마를 얻을 것 입니다."</string>
     <string name="Contestant">"참가자"</string>
     <string name="Duelist">"투쟁가"</string>
     <string name="Gladiator">"검투사"</string>
     <string name="Challenger">"챌린저"</string>
-    <string name="Win_1_1v1_Arenas_">"아레나 1 회 승리"</string>
-    <string name="Win_10_Arenas_">"아레나 10 회 승리"</string>
-    <string name="Win_100_Arenas_">"아레나 100 회 승리"</string>
-    <string name="Win_1000_Arenas">"아레나 1,000 회 승리"</string>
+    <string name="Win_1_1v1_Arenas_">"이기다 1 1ㄷ1 아레나"</string>
+    <string name="Win_10_Arenas_">"이기다 10 아레나"</string>
+    <string name="Win_100_Arenas_">"이기다 100 아레나"</string>
+    <string name="Win_1000_Arenas">"이기다 1000 아레나"</string>
 
 
     <string name="Already_in_arena_">"이미 아레나에 입장했습니다."</string>
@@ -494,7 +494,7 @@
 
     <string name="Harassment">"괴롭힘"</string>
 
-    <string name="_2v2">"2:2"</string>
+    <string name="_2v2">"2ㄷ2"</string>
 
 
     <string name="Standard">"스탠다드"</string>
@@ -1425,9 +1425,9 @@ Nebulous 규칙\n
     </string-array>
 
     <string-array name="clan_war_sizes">
-        <item>"2인조 (2:2)"</item>
-        <item>"소규모 (3:3)"</item>
-        <item>"소규모 (5:5)"</item>
-        <item>"일반 (8:8)"</item>
+        <item>"2인조 (2ㄷ2)"</item>
+        <item>"소규모 (3ㄷ3)"</item>
+        <item>"소규모 (5ㄷ5)"</item>
+        <item>"일반 (8ㄷ8)"</item>
     </string-array>
 </resources>
