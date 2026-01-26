@@ -15,14 +15,14 @@
     <string name="Failed">Gagal</string>
     <string name="Failed_to_join">Gagal bergabung</string>
     <string name="Full">Penuh</string>
-    <string name="Tricks_Performed_">Trik Dilakukan:</string>
+    <string name="Tricks_Performed_">Performa Trik:</string>
     <string name="Not_enough_plasma_">Plasma tidak cukup!</string>
     <string name="GET_PLASMA">DAPATKAN PLASMA</string>
     <string name="ASTEROIDS">ASTEROID</string>
     <string name="CHRISTMAS">NATAL</string>
     <string name="Reason">Alasan</string>
     <string name="PUBLIC">PUBLIK</string>
-    <string name="PRIVATE">PRIVAT</string>
+    <string name="PRIVATE">PRIBADI</string>
     <string name="Joined">Bergabung</string>
     <string name="Requests">Permintaan</string>
     <string name="Invites">Undangan</string>
@@ -58,7 +58,7 @@
     <string name="Other_players_will_not_be_able_to_hear_you_">Pemain lain tidak dapat mendengar Anda!</string>
     <string name="Allow_permission_to_enable_voice_recording_">Izinkan aplikasi untuk mengaktifkan rekaman suara.</string>
     <string name="voice_chat_prompt">Peringkat konten aplikasi dapat berubah jika obrolan suara diaktifkan. Untuk audio terbaik, gunakan headset.</string>
-    <string name="Only_leader_can_answer_requests_">Hanya ketua yang dapat menyetujui permintaan keanggotaan.</string>
+    <string name="Only_leader_can_answer_requests_">Hanya pemimpin yang dapat menyetujui permintaan keanggotaan.</string>
     <string name="Sent_request_not_invited_">Permintaan dikirim (tidak diundang).</string>
     <string name="REMOVE_SKIN_FROM_COMMUNITY_">HAPUS SKIN DARI KOMUNITAS!</string>
     <string name="This_cannot_be_undone_">Tindakan ini tidak dapat dibatalkan!</string>
@@ -100,9 +100,8 @@
     <string name="TOGGLE_FAVORITE">ATUR FAVORIT</string>
     <string name="Favorited">Difavoritkan</string>
     <string name="Unfavorited">Tidak Difavoritkan</string>
-    <string name="Background_Scale_">Ukuran Latar:</string>
-    <string name="Background_Lightness_">Kecerahan Latar:</string>
-    <string name="Background_Image_">Gambar Latar:</string>
+    <string name="Background_Scale_">Ukuran Latar belakang:</string>
+    <string name="Background_Lightness_">Kecerahan Latar belakang:</string>33430100>
     <string name="INVERT_SELECTION">BALIK\nSELEKSI</string>
     <string name="MINIMAP">PETA MINI</string>
     <string name="Victorious">Berjaya</string>
